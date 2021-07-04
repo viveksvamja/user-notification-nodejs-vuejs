@@ -24,4 +24,5 @@ Auto refresh user notification invites
 
 #### After auto refresh updated notifications
 
-![After_Autoload_Notification_Page](https://user-images.githubusercontent.com/15010734/124381934-90809e80-dce2-11eb-837a-fc527eae177b.PNG)
+![After_Autoload_Notification_Page](https://user-images.githubusercontent.com/15010734/124382231-f588c400-dce3-11eb-9c63-7da7ed36d6d4.PNG)
+
